@@ -16,6 +16,10 @@ export default {
 </script>
 
 <style scoped>
+
+.box:hover {
+    box-shadow: 0 0 10px #55cba9;
+}
     .box {
         width: 15vh;
         height: 15vh;

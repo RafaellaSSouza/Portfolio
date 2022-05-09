@@ -3,7 +3,7 @@ export default {
   head: {
     title: 'Portfólio | Rafaella Souza',
     htmlAttrs: {
-      lang: 'pt-BR'
+      lang: 'pt-br'
     },
     meta: [
       { charset: 'utf-8' },

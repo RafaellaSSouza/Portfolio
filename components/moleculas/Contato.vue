@@ -18,8 +18,8 @@
             </div>
 
             <div class="rede">
-                <p>Facebook</p>
-                <a href="https://www.facebook.com/rafaella.souza.1213/"><img src="https://cdn-icons-png.flaticon.com/512/1076/1076990.png?w=740" alt="Linkedin"></a>
+                <p>WhatsApp</p>
+                <a href="https://wa.me/5541996637811"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968841.png" alt="Linkedin"></a>
             </div>
         </div>
         
